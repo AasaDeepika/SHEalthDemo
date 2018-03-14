@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home_icon"
+            android:title="@string/home_screen" />
+
+        <item
+            android:id="@+id/nav_doctor"
+            android:icon="@drawable/ask_doc_icon"
+            android:title="@string/ask_doctor" />
+
+        <item
+            android:id="@+id/nav_faqs"
+            android:icon="@drawable/faq_icon"
+            android:title="@string/faq_screen" />
+
+        <item
+            android:id="@+id/nav_videoGallery"
+            android:icon="@drawable/video_library_icon"
+            android:title="@string/video_gallery_screen" />
+
+        <item
+            android:id="@+id/nav_quote"
+            android:icon="@drawable/quote_icon"
+            android:title="@string/quote_screen" />
+
+    </group>
+    <item android:title="@string/about">
+        <menu>
+        <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_aboutApp"
+                android:icon="@drawable/about_shealth_icon"
+                android:title="@string/about_screen" />
+
+            <item
+                android:id="@+id/nav_TandC"
+                android:icon="@drawable/tc_icon"
+                android:title="@string/TandC_screen" />
+
+        </group>
+    </menu>
+    </item>
+</menu>

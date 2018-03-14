@@ -1,0 +1,186 @@
+<resources>
+    <string name="app_name">SHEalth</string>
+    <string name="home_screen">Home</string>
+    <string name="quote_screen">Quote of the day</string>
+    <string name="faq_screen">FAQs</string>
+    <string name="help_screen">Help</string>
+    <string name="TandC_screen">Terms and Conditions</string>
+    <string name="about_screen">SHEalth App</string>
+    <string name="about_doc_screen">About the Doctor</string>
+    <string name="video_gallery_screen">Video Gallery</string>
+    <string name="faq_expansion">Frequently Asked Question</string>
+    <string name="ask_doctor">Ask a Doctor</string>
+    <string name="about">About us</string>
+
+    <string name="about_doctor">Doctor Details</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="Special_Care">Special Care</string>
+    <string name="Problems">Problems</string>
+    <string name="Related_Cancers">Related Cancers</string>
+
+    <string name="Female_intro">Female body and health</string>
+    <string name="Healthy_Female">Healthy Female</string>
+    <string name="BMI">BMI</string>
+    <string name="bmi">Body Mass Index</string>
+    <string name="glands">Glands</string>
+    <string name="Reproductive_system">Reproductive System</string>
+    <string name="Hormones">Hormones</string>
+    <string name="get_old">Getting Old</string>
+
+    <string name="Teenagers">Teenagers</string>
+    <string name="Adolescence">Adolescence</string>
+    <string name="puberty">Puberty</string>
+    <string name="Menstrual_cycle">Menstrual Cycle</string>
+    <string name="Hormone_swings">Hormone swings</string>
+    <string name="Acne">Acne</string>
+    <string name="Teenage_pregnancy">Teenage pregnancy</string>
+
+    <string name="Reproductive_Health">Reproductive Health</string>
+    <string name="Fertility">Fertility</string>
+    <string name="safe_sex">Safe sex</string>
+    <string name="pregnancy">Pregnancy</string>
+    <string name="abortion">Abortion</string>
+    <string name="postpartum">Postpartum</string>
+    <string name="child_care">Child care</string>
+
+
+    <!--include hormone swigs, cancers, tb-->
+
+    <string name="Mental_Health">Mental Health</string>
+    <string name="Motivation">Motivation</string>
+    <string name="empower">Empowerment</string>
+    <string name="tackle_stress">Tackle Stress</string>
+    <string name="girl_for_girl">Girl for Girl</string>
+
+    <string name="women_empower">Women Empowerment</string>
+    <string name="stay_Motivated">Stay Motivated</string>
+
+
+    <!--care-->
+
+    <string name="Safty">Safety</string>
+    <string name="no_drugs">\'NO\' Drugs</string>
+    <string name="be_the_change">Be the Change</string>
+    <string name="get_support">Get Support</string>
+
+    <string name="no_to_drugs">Say \'No\' to Drugs</string>
+
+    <!--aim big, strong women storis-->
+
+    <string name="Serious_issues">Serious Issues Worldwide</string>
+    <string name="obesity">Obesity</string>
+    <string name="Hormonal_disorders">Hormonal Disorders</string>
+    <string name="pcod">PCOD</string>
+    <string name="PCOD">Polycystic Ovarian Disease</string>
+    <string name="InFertility">Infertility</string>
+    <string name="childBirth">Child Birth</string>
+    <string name="childBirth_Complications">Child Birth Complications</string>
+    <string name="Menopause">Menopause</string>
+    <string name="hiv">HIV AIDS</string>
+    <string name="STDs">STDs</string>
+    <string name="stress">Stress</string>
+    <string name="Violence">Violence</string>
+    <string name="Sexual_Abuse">Sexual Abuse</string>
+    <string name="cancer">Cancer</string>
+
+    <string name="about_the_App_content"></string>
+    <string name="TandC_content"></string>
+
+
+    <!--Content for APP-->
+    <!--Headers-->
+    <string name="H_Healthy_Female">Health is the greatest gift, contentment the greatest wealth, faithfulness the best relationship.\n\n Buddha
+</string>
+    <string name="H_bmi">Body Mass Index</string>
+    <string name="H_glands">Glands</string>
+    <string name="H_Reproductive_system">Reproductive System</string>
+    <string name="H_Hormones">Hormones</string>
+    <string name="H_get_old">Getting Old</string>
+
+    <string name="H_Adolescence">Adolescence</string>
+    <string name="H_puberty">Puberty</string>
+    <string name="H_Menstrual_cycle">Menstrual Cycle</string>
+    <string name="H_Hormone_swings">Hormone swings</string>
+    <string name="H_Acne">Acne</string>
+    <string name="H_Teenage_pregnancy">Teenage pregnancy</string>
+
+    <string name="H_Fertility">Fertility</string>
+    <string name="H_safe_sex">Safe sex</string>
+    <string name="H_pregnancy">Pregnancy</string>
+    <string name="H_abortion">Abortion</string>
+    <string name="H_postpartum">Postpartum</string>
+    <string name="H_child_care">Child care</string>
+
+    <string name="H_Motivation">Motivation</string>
+    <string name="H_empower">Empowerment</string>
+    <string name="H_tackle_stress">Tackle Stress</string>
+    <string name="H_girl_for_girl">Girl for Girl</string>
+
+    <string name="H_no_drugs">\'NO\' Drugs</string>
+    <string name="H_be_the_change">Be the Change</string>
+    <string name="H_get_support">Get Support</string>
+
+    <string name="H_obesity">Obesity</string>
+    <string name="H_Hormonal_disorders">Hormonal Disorders</string>
+    <string name="H_pcod">PCOD</string>
+    <string name="H_PCOD">Polycystic Ovarian Disease</string>
+    <string name="H_InFertility">Infertility</string>
+    <string name="H_childBirth">Child Birth Complications</string>
+    <string name="H_Menopause">Menopause</string>
+    <string name="H_hiv">HIV AIDS</string>
+    <string name="H_STDs">STDs</string>
+    <string name="H_stress">Stress</string>
+    <string name="H_Violence">Violence</string>
+    <string name="H_Sexual_Abuse">Sexual Abuse</string>
+    <string name="H_cancer">Cancer</string>
+
+    <!--content-->
+
+    <string name="C_Healthy_Female">Healthy Female</string>
+    <string name="C_bmi">Body Mass Index</string>
+    <string name="C_glands">Glands</string>
+    <string name="C_Reproductive_system">Reproductive System</string>
+    <string name="C_Hormones">Hormones</string>
+    <string name="C_get_old">Getting Old</string>
+
+    <string name="C_Adolescence">Adolescence</string>
+    <string name="C_puberty">Puberty</string>
+    <string name="C_Menstrual_cycle">Menstrual Cycle</string>
+    <string name="C_Hormone_swings">Hormone swings</string>
+    <string name="C_Acne">Acne</string>
+    <string name="C_Teenage_pregnancy">Teenage pregnancy</string>
+
+    <string name="C_Fertility">Fertility</string>
+    <string name="C_safe_sex">Safe sex</string>
+    <string name="C_pregnancy">Pregnancy</string>
+    <string name="C_abortion">Abortion</string>
+    <string name="C_postpartum">Postpartum</string>
+    <string name="C_child_care">Child care</string>
+
+    <string name="C_Motivation">Motivation</string>
+    <string name="C_empower">Empowerment</string>
+    <string name="C_tackle_stress">Tackle Stress</string>
+    <string name="C_girl_for_girl">Girl for Girl</string>
+
+    <string name="C_no_drugs">\'NO\' Drugs</string>
+    <string name="C_be_the_change">Be the Change</string>
+    <string name="C_get_support">Get Support</string>
+
+    <string name="C_obesity">Obesity</string>
+    <string name="C_Hormonal_disorders">Hormonal Disorders</string>
+    <string name="C_pcod">PCOD</string>
+    <string name="C_InFertility">Infertility</string>
+    <string name="C_childBirth">Child Birth</string>
+    <string name="C_Menopause">Menopause</string>
+    <string name="C_hiv">HIV AIDS</string>
+    <string name="C_STDs">STDs</string>
+    <string name="C_stress">Stress</string>
+    <string name="C_Violence">Violence</string>
+    <string name="C_Sexual_Abuse">Sexual Abuse</string>
+    <string name="C_cancer">Cancer</string>
+
+
+</resources>

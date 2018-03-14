@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "176896037368",
+    "firebase_url": "https://shealthdemo.firebaseio.com",
+    "project_id": "shealthdemo",
+    "storage_bucket": "shealthdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176896037368:android:c8c9f9bddda28bce",
+        "android_client_info": {
+          "package_name": "com.example.sridhar.shealthdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176896037368-4ben1gpt0q78vnttq8c8pqrdgcdh6nng.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sridhar.shealthdemo",
+            "certificate_hash": "73a5d546a3a2ff4f539ae87e60469a2708374cab"
+          }
+        },
+        {
+          "client_id": "176896037368-5jh5i6arjtj4blo6rgtig20dcha2rs8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIxW7a0HgJAGkobzQKA_oj2pP9FXJ7POA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176896037368-5jh5i6arjtj4blo6rgtig20dcha2rs8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
